@@ -6,6 +6,15 @@ JavaScript Budget App to store expenses and income with detais
 				Synopsis
 ------------------------------------------------------------------
 
+The objective of this JavaScript budget app project is to use JavaScript OOP. 
+It takes a income/expenses and provides a running balance.
+
+User can add and remove the expenses/income and automatically budget balance
+will be updated.
+
+show the percentage of expense done from the budget.
+
+show the date of expense/income and budget month.
 
 
 ------------------------------------------------------------------ 
@@ -23,8 +32,18 @@ To run the project, type the following in the browser:
 			Features
 ------------------------------------------------------------------
 
-Have used HTML string placeholder, event and math function
- & DOM in javascirpt
+Have used HTML string placeholder, event & math function
+and DOM in javascirpt.
+ 
+Code has been divided with 3 controller as BudgetController,
+UI Controller and global app controller.
+ 
+JavaScript Used as:
+JavaScript Constructor Functions
+JavaScript Prototypal Inheritance
+JavaScript HTML/CSS Manipulation
+JavaScript DOM Manipulation
+
 
 ------------------------------------------------------------------
 			Functionalities
