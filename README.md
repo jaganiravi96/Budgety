@@ -9,12 +9,12 @@ JavaScript Budget App to store expenses and income with detais
 The objective of this JavaScript budget app project is to use JavaScript OOP. 
 It takes a income/expenses and provides a running balance.
 
-User can add and remove the expenses/income and automatically budget balance
+- User can add and remove the expenses/income and automatically budget balance
 will be updated.
 
-show the percentage of expense done from the budget.
+- show the percentage of expense done from the budget.
 
-show the date of expense/income and budget month.
+- show the date of expense/income and budget month.
 
 
 ------------------------------------------------------------------ 
